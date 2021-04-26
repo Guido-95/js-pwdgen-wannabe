@@ -18,7 +18,7 @@ var colorePreferito = prompt("Scrivi il tuo colore preferito");
 console.log(colorePreferito);
 
 // inserisci password generata
-document.getElementById("password").innerHTML = (nome + cognome + colorePreferito + "21");
+document.getElementById("password").innerHTML = nome + cognome + colorePreferito + "21";
 
 
 
